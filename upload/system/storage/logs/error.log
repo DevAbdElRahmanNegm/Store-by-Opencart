@@ -1,0 +1,20 @@
+2020-01-08 19:13:36 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 7
+2020-01-08 19:13:36 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 10
+2020-01-08 19:13:36 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 10
+2020-01-08 19:13:36 - PHP Notice:  Undefined variable: mysql in C:\Program Files (x86)\Ampps\www\opencart\upload\install\controller\install\step_3.php on line 280
+2020-01-08 19:13:36 - PHP Notice:  Trying to get property of non-object in C:\Program Files (x86)\Ampps\www\opencart\upload\install\controller\install\step_3.php on line 280
+2020-01-08 19:14:03 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 7
+2020-01-08 19:14:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 10
+2020-01-08 19:14:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 10
+2020-01-08 19:14:03 - PHP Notice:  Undefined variable: mysql in C:\Program Files (x86)\Ampps\www\opencart\upload\install\controller\install\step_3.php on line 280
+2020-01-08 19:14:03 - PHP Notice:  Trying to get property of non-object in C:\Program Files (x86)\Ampps\www\opencart\upload\install\controller\install\step_3.php on line 280
+2020-01-08 19:15:53 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 7
+2020-01-08 19:15:53 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 10
+2020-01-08 19:15:53 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 10
+2020-01-08 19:15:53 - PHP Notice:  Undefined variable: mysql in C:\Program Files (x86)\Ampps\www\opencart\upload\install\controller\install\step_3.php on line 280
+2020-01-08 19:15:53 - PHP Notice:  Trying to get property of non-object in C:\Program Files (x86)\Ampps\www\opencart\upload\install\controller\install\step_3.php on line 280
+2020-01-08 19:15:54 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 7
+2020-01-08 19:15:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 10
+2020-01-08 19:15:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\Program Files (x86)\Ampps\www\opencart\upload\system\library\db\mysqli.php on line 10
+2020-01-08 19:15:54 - PHP Notice:  Undefined variable: mysql in C:\Program Files (x86)\Ampps\www\opencart\upload\install\controller\install\step_3.php on line 280
+2020-01-08 19:15:54 - PHP Notice:  Trying to get property of non-object in C:\Program Files (x86)\Ampps\www\opencart\upload\install\controller\install\step_3.php on line 280
